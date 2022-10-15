@@ -1,4 +1,4 @@
-// console.log("no error");
+// console.log("error");
 switcher = 0;
 function testit() {
   document.getElementById("test").innerHTML +=
